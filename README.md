@@ -57,12 +57,12 @@ ___22.03.02 ~ 24.06.07___
 #### 텐트
 |설치 가능|설치 불가능|설치 완료|
 |---|---|---|
-|<img src=https://github.com/ACEDIA2567/3DProject/assets/101154683/7cf3429d-04ad-4479-8be1-7ee923a5792e width="400" height="300">|<img src=https://github.com/ACEDIA2567/3DProject/assets/101154683/b8532bf6-fae0-4e8b-9c20-5321ec702bf8 width="400" height="300">|<img src=https://github.com/ACEDIA2567/3DProject/assets/101154683/baaec324-ed51-4388-964b-85b16f49f05f width="400" height="300">|
+|<img src=https://github.com/ACEDIA2567/3DProject/assets/101154683/7cf3429d-04ad-4479-8be1-7ee923a5792e width="500" height="300">|<img src=https://github.com/ACEDIA2567/3DProject/assets/101154683/b8532bf6-fae0-4e8b-9c20-5321ec702bf8 width="500" height="300">|<img src=https://github.com/ACEDIA2567/3DProject/assets/101154683/baaec324-ed51-4388-964b-85b16f49f05f width="500" height="300">|
 
 #### 모닥불
 |설치 가능|설치 불가능|설치 완료|
 |---|---|---|
-|<img src=https://github.com/ACEDIA2567/3DProject/assets/101154683/4ca29249-a819-4ff2-9725-e10dda3249ef width="400" height="300">|<img src=https://github.com/ACEDIA2567/3DProject/assets/101154683/9ca80f35-38ad-4bd6-9268-bf056d96c922 width="400" height="300">|<img src=https://github.com/ACEDIA2567/3DProject/assets/101154683/735eac5e-789e-4ddc-99e2-7fcf51a4df9f width="400" height="300">|
+|<img src=https://github.com/ACEDIA2567/3DProject/assets/101154683/4ca29249-a819-4ff2-9725-e10dda3249ef width="500" height="300">|<img src=https://github.com/ACEDIA2567/3DProject/assets/101154683/9ca80f35-38ad-4bd6-9268-bf056d96c922 width="500" height="300">|<img src=https://github.com/ACEDIA2567/3DProject/assets/101154683/735eac5e-789e-4ddc-99e2-7fcf51a4df9f width="500" height="300">|
 
 
 ### 🔨 장비
